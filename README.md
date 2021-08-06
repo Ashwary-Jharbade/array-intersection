@@ -9,16 +9,16 @@ Algorithm start:
 * step3 - Initialize 2 variables i and j with value 0.
 * step4 - Sort arr1 and arr2 in ascending order
 * step5 - "Loop Start" 
-              Now start a loop over sorted array's according to their respective length
-              with iterators i and j.
-             * step 5.1   - Compare ith and jth value of arr1 and arr2
-             * step 5.2  - If value matches store ith value of arr1 in arr3
-             * step 5.3 -  Or check the values from array's arr1 and arr2 at there 
-                                respective indexes
-                                If arr1 has small value  at its ith index as compare to arr2 at its 
-                                jth index increment ith iterator by 1
-            * step 5.4 -  or  increment the jth iterator by 1
-            "Loop end"
+*              Now start a loop over sorted array's according to their respective length
+*              with iterators i and j.
+*              step 5.1   - Compare ith and jth value of arr1 and arr2
+*              step 5.2  - If value matches store ith value of arr1 in arr3
+*              step 5.3 -  Or check the values from array's arr1 and arr2 at there 
+*                                respective indexes
+*                                If arr1 has small value  at its ith index as compare to arr2 at its 
+*                                jth index increment ith iterator by 1
+*              step 5.4 -  or  increment the jth iterator by 1
+*            "Loop end"
 * step6. print array arr3 containing intersected elements
 Algorithm end
 
